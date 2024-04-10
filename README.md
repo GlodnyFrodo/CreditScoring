@@ -1,4 +1,4 @@
-# CreditScoring - projecgt created using Google Colab
+# CreditScoring - project created using Google Colab
 
 **PROBLEM STATEMENT, PROJECT GOAL AND SOURSE OF DATA**
 
